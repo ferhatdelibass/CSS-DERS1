@@ -1,0 +1,23 @@
+/* p{background-color: green;
+opacity: 0.5;*/
+
+
+ /* body{
+color: orange;
+background-image: url(download.jpg);
+background-repeat:no-repeat ;
+background-position:left top;
+background-size:cover;
+}  */
+
+/* body {
+background-color: orange;
+background-image: url(download.jpg);
+background-repeat:no-repeat;
+background-position:right top;
+} */
+ /* üsttekinin kısaltması */
+ body{
+background: orange url(download.jpg) 
+no-repeat right top 
+}

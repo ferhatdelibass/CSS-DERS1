@@ -1,0 +1,30 @@
+div{
+    width:20% ;
+    height: 100px;
+    background-color: yellow;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 100px;
+}
+div.firstdiv{
+    outline-width: 10px;
+    outline-style: solid;
+    outline-color: red;
+outline-offset: 15px;
+}
+div.seconddiv{
+outline-width: 10px;
+outline-style: ridge;
+outline-color: red;
+outline-offset: 15px;}
+
+div.thirddiv{
+outline-width: 10px;
+outline-style:dotted ;
+outline-color: red;
+outline-offset: 15px;
+}
+/* alttaki yukardakinin kısaltması */
+/* div.thirddiv{
+    outline: 10px dotted red;
+} */

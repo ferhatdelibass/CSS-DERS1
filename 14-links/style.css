@@ -1,5 +1,5 @@
 a:link{ color: red;
-text-decoration:none;
+text-decoration:underline;
 background-color: yellow;
 
 }
@@ -16,11 +16,11 @@ a:hover{
     background-color: lightgreen;
 }
 
-a:active{
+ a:active{
     color: blue;
     text-decoration: underline;
-    background-color: hotpink;
-}
+    background-color: hotpink; }
+
 /* 
 a:hover,a:link ve a:visited sonrasında yazılmalıdır
 a:active, a:hover sonrasında yazılmalıdır.

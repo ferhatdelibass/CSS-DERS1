@@ -1,0 +1,22 @@
+.div1{
+    background-color: red;
+    float:right;
+    padding: 15px;
+    
+}
+
+
+.div2{
+    background-color: yellow;
+float: right;
+padding: 15px;
+}
+
+.div3{
+    background-color: green;
+    float:left;
+    padding: 15px;
+}
+p{
+    clear:both;
+}
